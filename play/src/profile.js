@@ -42,6 +42,10 @@ class ProfileScreen extends Component {
                 })
             }
         })
+
+        // ImagePicker.launchImageLibrary(null, (response) =>{
+
+        // });
     }
 
     render() {

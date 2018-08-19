@@ -20,11 +20,13 @@ import HomeScreen from './src/home';
 import ProfileScreen from './src/profile';
 import PostsScreen from './src/posts';
 import SidedrawerComponent from './src/sidedrawer';
+import ContactsComponent from './src/contacts';
 
 Navigation.registerComponent("play.HomeScreen", ()=>HomeScreen);
 Navigation.registerComponent("play.ProfileScreen", () => ProfileScreen);
 Navigation.registerComponent("play.PostsScreen", () => PostsScreen);
 Navigation.registerComponent("play.SidedrawerScreen", () => SidedrawerComponent);
+Navigation.registerComponent("play.ContactsScreen", () => ContactsComponent);
 
 Navigation.startSingleScreenApp({
   screen:{

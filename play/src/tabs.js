@@ -9,6 +9,23 @@ const loadTabs = () => {
     Navigation.startTabBasedApp({
         tabs: [
             {
+                screen: "play.ProfileScreen",
+                label: "Profile",
+                title: "Profile",
+                icon: ProfileIcon,
+                navigatorStyle: {
+                    navBarTextColor: 'red',
+                    navBarBackgroundColor: 'blue'
+                },
+                navigatorButtons: {
+                    leftButtons: [{
+                        title: "Drawer",
+                        id: "DrawerButton",
+                        icon: MenuIcon
+                    }]
+                }
+            },
+            {
                 screen: "play.HomeScreen",
                 label: "Home",
                 title: "Home",
@@ -21,21 +38,10 @@ const loadTabs = () => {
                 icon: PostsIcon
             },
             {
-                screen: "play.ProfileScreen",
-                label: "Profile",
-                title: "Profile",
-                icon: ProfileIcon,
-                navigatorStyle:{
-                    navBarTextColor:'red',
-                    navBarBackgroundColor:'blue'
-                },
-                navigatorButtons: {
-                     leftButtons: [{
-                         title: "Drawer",
-                         id: "DrawerButton",
-                         icon: MenuIcon
-                     }]
-                 }
+                screen: "play.ContactsScreen",
+                label: "Contact",
+                title: "Contact",
+                icon: PostsIcon
             }
         ],
         drawer:{
