@@ -10,6 +10,7 @@ import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
 import com.reactnativenavigation.NavigationApplication;
 import com.imagepicker.ImagePickerPackage; // <-- add this import
+import com.oblador.vectoricons.VectorIconsPackage;
 
 
 import java.util.Arrays;
@@ -60,7 +61,8 @@ public class MainApplication extends NavigationApplication {
          return Arrays.<ReactPackage>asList(
              // eg. new VectorIconsPackage()
              new ImagePickerPackage(), // <-- add this line
-             new ReactNativeContacts()
+             new ReactNativeContacts(),
+             new VectorIconsPackage()
          );
      }
 
