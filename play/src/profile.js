@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Image, Button } from 'react-native';
+import ImagePicker from 'react-native-image-picker';
 
 // class ProfileComponent extends Component {
 class ProfileScreen extends Component {
@@ -7,6 +8,10 @@ class ProfileScreen extends Component {
         super(props);
 
         this.props.navigator.setOnNavigatorEvent(this.navigatorEvent)
+    }
+
+    state = {
+        avatar:''
     }
 
     navigatorEvent = event =>{
@@ -18,12 +23,50 @@ class ProfileScreen extends Component {
         }
     }
 
+    addAvatar = () => {
+        ImagePicker.showImagePicker({
+            title:'select an awesome avatar',
+            cancelButtonTitle:'shame on you',
+            takePhotoButtonTitle:'take a super nice pick',
+            chooseFromLibraryButtonTitle:'really? an old photo?'
+        }, response => {
+            if(response.didCancel){
+                alert('cancel op')
+            }else if(response.error){
+                alert('sorry not working')
+            } else{
+                // alert(response.data)
+
+                this.setState({
+                    avatar: response.uri
+                })
+            }
+        })
+    }
+
     render() {
         return (
-            <Text>This is profile</Text>
+            <View style={{width:'100%'}}>
+                <Image 
+                    source={{uri:this.state.avatar}}
+                    style={styles.avatar}
+                />
+                <Button
+                    title="Add our avatar"
+                    onPress={()=>this.addAvatar()}
+                />
+            </View>
+            
         )
     }
 }
+
+const styles = StyleSheet.create({
+    avatar:{
+        width:'100%',
+        height:400
+    }
+})
 
 // export default ProfileComponent;
 export default ProfileScreen;
