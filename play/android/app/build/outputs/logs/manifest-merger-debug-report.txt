@@ -4,9 +4,14 @@ ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml:1:1-26:1
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-20:12
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\b6033087c9af266cabb3f2856a55b8c0\AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\4cbb7cea8b96aa95e1888210a1f6807e\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1889f51f0a400e4c59058b1d9241b2fc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\11a8abf995ea7e85147b70b0a00d8271\AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\d0f0a92db3e306787c52a0a95ac27f44\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\719841e4a12b9c16adc5de1585e49374\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\8d1eaaeb6ce3905f11416be8acf69606\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\11ce64b4de239b3e2ce69280e2ad3e31\AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\437c208744a4deb988443412c2b639f1\AndroidManifest.xml:10:1-18:12
 MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\590499386b23ddbc336a6568538faeb6\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\173a1c89721ca5aa28a28bf4b835e050\AndroidManifest.xml:2:1-9:12
@@ -16,6 +21,15 @@ MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\lethisa\.gradle\caches\t
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\165f039981116ae2fef325b8bcd0d4d2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\fbea3658a37a771823aeabc9083298d9\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\0df82687829601563e9853806bc5c5ab\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d2a5e4e6f3ce75a33d1f85d311633d6e\AndroidManifest.xml:17:1-26:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2ad298fed0da48ff948169bb61db51bf\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b909b235d72d6eb4f7875d934dcfb09a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2b346b04be54de85854f6b2e46bafb3f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\202421de75ae89b19b2e693eabcd6e09\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b53826874d461846b7b3a6b70763e878\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fef67df598c66f3a207b40e6d1c9907d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f2f9b90a554bc6538683464d88b5b255\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\53c118e4e9051e41d6cfc4ca39a035c2\AndroidManifest.xml:17:1-31:12
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml:1:1-26:12
@@ -45,16 +59,42 @@ MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\lethisa\.gradle\ca
 		ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml:5:22-75
 application
 ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-18:19
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\b6033087c9af266cabb3f2856a55b8c0\AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\b6033087c9af266cabb3f2856a55b8c0\AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\4cbb7cea8b96aa95e1888210a1f6807e\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\4cbb7cea8b96aa95e1888210a1f6807e\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1889f51f0a400e4c59058b1d9241b2fc\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1889f51f0a400e4c59058b1d9241b2fc\AndroidManifest.xml:22:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\11a8abf995ea7e85147b70b0a00d8271\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\11a8abf995ea7e85147b70b0a00d8271\AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\d0f0a92db3e306787c52a0a95ac27f44\AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\d0f0a92db3e306787c52a0a95ac27f44\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\719841e4a12b9c16adc5de1585e49374\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\719841e4a12b9c16adc5de1585e49374\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\8d1eaaeb6ce3905f11416be8acf69606\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\8d1eaaeb6ce3905f11416be8acf69606\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\11ce64b4de239b3e2ce69280e2ad3e31\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\11ce64b4de239b3e2ce69280e2ad3e31\AndroidManifest.xml:29:5-20
 MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\d40462eb6a5d4fbaec5b27159638ed09\AndroidManifest.xml:3:3-17
 MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\d40462eb6a5d4fbaec5b27159638ed09\AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\37fc3f128635139f7f79a1ee1258fd47\AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\37fc3f128635139f7f79a1ee1258fd47\AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2ad298fed0da48ff948169bb61db51bf\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2ad298fed0da48ff948169bb61db51bf\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b909b235d72d6eb4f7875d934dcfb09a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b909b235d72d6eb4f7875d934dcfb09a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2b346b04be54de85854f6b2e46bafb3f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2b346b04be54de85854f6b2e46bafb3f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\202421de75ae89b19b2e693eabcd6e09\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\202421de75ae89b19b2e693eabcd6e09\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b53826874d461846b7b3a6b70763e878\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b53826874d461846b7b3a6b70763e878\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fef67df598c66f3a207b40e6d1c9907d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fef67df598c66f3a207b40e6d1c9907d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f2f9b90a554bc6538683464d88b5b255\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f2f9b90a554bc6538683464d88b5b255\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\53c118e4e9051e41d6cfc4ca39a035c2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\53c118e4e9051e41d6cfc4ca39a035c2\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml:9:7-39
 	android:icon
@@ -87,18 +127,32 @@ ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml:20:13-73
 		ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\b6033087c9af266cabb3f2856a55b8c0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\b6033087c9af266cabb3f2856a55b8c0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\4cbb7cea8b96aa95e1888210a1f6807e\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\4cbb7cea8b96aa95e1888210a1f6807e\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1889f51f0a400e4c59058b1d9241b2fc\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1889f51f0a400e4c59058b1d9241b2fc\AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\11a8abf995ea7e85147b70b0a00d8271\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\11a8abf995ea7e85147b70b0a00d8271\AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\d0f0a92db3e306787c52a0a95ac27f44\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\d0f0a92db3e306787c52a0a95ac27f44\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\719841e4a12b9c16adc5de1585e49374\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\719841e4a12b9c16adc5de1585e49374\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\8d1eaaeb6ce3905f11416be8acf69606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\8d1eaaeb6ce3905f11416be8acf69606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\11ce64b4de239b3e2ce69280e2ad3e31\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\11ce64b4de239b3e2ce69280e2ad3e31\AndroidManifest.xml:21:5-23:54
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\437c208744a4deb988443412c2b639f1\AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\437c208744a4deb988443412c2b639f1\AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\590499386b23ddbc336a6568538faeb6\AndroidManifest.xml:5:5-7:41
@@ -115,8 +169,28 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\lethisa\.gra
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\fbea3658a37a771823aeabc9083298d9\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\0df82687829601563e9853806bc5c5ab\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\0df82687829601563e9853806bc5c5ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d2a5e4e6f3ce75a33d1f85d311633d6e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d2a5e4e6f3ce75a33d1f85d311633d6e\AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2ad298fed0da48ff948169bb61db51bf\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2ad298fed0da48ff948169bb61db51bf\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b909b235d72d6eb4f7875d934dcfb09a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b909b235d72d6eb4f7875d934dcfb09a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2b346b04be54de85854f6b2e46bafb3f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2b346b04be54de85854f6b2e46bafb3f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\202421de75ae89b19b2e693eabcd6e09\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\202421de75ae89b19b2e693eabcd6e09\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b53826874d461846b7b3a6b70763e878\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b53826874d461846b7b3a6b70763e878\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fef67df598c66f3a207b40e6d1c9907d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fef67df598c66f3a207b40e6d1c9907d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f2f9b90a554bc6538683464d88b5b255\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f2f9b90a554bc6538683464d88b5b255\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\53c118e4e9051e41d6cfc4ca39a035c2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\53c118e4e9051e41d6cfc4ca39a035c2\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml
 		ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml
@@ -125,6 +199,40 @@ INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml
 		ADDED from C:\Development\play\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Development\play\android\app\src\main\AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] C:\Development\play\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\719841e4a12b9c16adc5de1585e49374\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\719841e4a12b9c16adc5de1585e49374\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\8d1eaaeb6ce3905f11416be8acf69606\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\8d1eaaeb6ce3905f11416be8acf69606\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\11ce64b4de239b3e2ce69280e2ad3e31\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\11ce64b4de239b3e2ce69280e2ad3e31\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d2a5e4e6f3ce75a33d1f85d311633d6e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d2a5e4e6f3ce75a33d1f85d311633d6e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b909b235d72d6eb4f7875d934dcfb09a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b909b235d72d6eb4f7875d934dcfb09a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2b346b04be54de85854f6b2e46bafb3f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\2b346b04be54de85854f6b2e46bafb3f\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\202421de75ae89b19b2e693eabcd6e09\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\202421de75ae89b19b2e693eabcd6e09\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b53826874d461846b7b3a6b70763e878\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b53826874d461846b7b3a6b70763e878\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fef67df598c66f3a207b40e6d1c9907d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fef67df598c66f3a207b40e6d1c9907d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f2f9b90a554bc6538683464d88b5b255\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f2f9b90a554bc6538683464d88b5b255\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\53c118e4e9051e41d6cfc4ca39a035c2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\53c118e4e9051e41d6cfc4ca39a035c2\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\lethisa\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4634ea77f1ba93e5d305b97465a053a1\AndroidManifest.xml:26:9-47
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from C:\Development\play\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
